@@ -291,9 +291,9 @@ Key points:
 | Enquiry Type | Contact |
 |---|---|
 | General & media enquiries | [avr3@qut.edu.au](mailto:avr3@qut.edu.au) |
-<!-- | Research collaboration | [research@[university].edu.au](mailto:research@university.edu.au) |
+| Research collaboration | [research@[university].edu.au](mailto:research@university.edu.au) |
 | Student & HDR opportunities | [training@[university].edu.au](mailto:training@university.edu.au) |
-| Data access requests | [data@[university].edu.au](mailto:data@university.edu.au) | -->
+| Data access requests | [data@[university].edu.au](mailto:data@university.edu.au) |
 -->
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 <img src="assets/AVR3_RGB_Lockup%20Primary.png" width="200" />
