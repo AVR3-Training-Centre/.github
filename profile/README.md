@@ -277,7 +277,7 @@ Key points:
      ============================================================ -->
 
 <p align="center">
-  <img src="assets/logos/arc-logo.png" alt="Australian Research Council" height="60" />
+  <img src="assets/arc-logo.png" alt="Australian Research Council" height="60" />
 </p>
 
 This research is supported by the **Australian Research Council** under the ARC Training Centres scheme (Project Number: **IC230100001**).
