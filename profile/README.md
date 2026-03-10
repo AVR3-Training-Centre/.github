@@ -142,7 +142,7 @@ Designing resilient communication architectures and infrastructure-cooperative s
 
 ## Our Team
 
-### Centre Director
+### Centre Directors
 
 <!-- ============================================================
      TEAM PHOTO PLACEHOLDER
@@ -150,8 +150,8 @@ Designing resilient communication architectures and infrastructure-cooperative s
      ============================================================ -->
 | | |
 |:---:|:---|
-| <img src="assets/seb-g-headshot.jpg" alt="Centre Director" width="100" /> | **Sebastien Glaser**<br/>Professor, QUT<br/>📧 [sebastien.glaser@qut.edu.au](mailto:sebastien.glaser@qut.edu.au)<br/>🔗 [Profile](https://www.qut.edu.au/about/our-people/academic-profiles/sebastien.glaser) |
-| <img src="assets/ron-s-headshot.jpg" alt="Centre Deputy Director" width="100" /> | **Ronald Schroeter**<br/>Professor, QUT<br/>📧 [r.schroeter@qut.edu.au](mailto:r.schroeter@qut.edu.au)<br/>🔗 [Profile](https://www.qut.edu.au/about/our-people/academic-profiles/r.schroeter) |
+| <img src="assets/seb-g-headshot.jpg" alt="Centre Director" width="100" /> | **Prof. Sebastien Glaser**<br/>Director, QUT<br/>📧 [sebastien.glaser@qut.edu.au](mailto:sebastien.glaser@qut.edu.au)<br/>🔗 [Profile](https://www.qut.edu.au/about/our-people/academic-profiles/sebastien.glaser) |
+| <img src="assets/ron-s-headshot.jpg" alt="Centre Deputy Director" width="100" /> | **Prof. Ronald Schroeter**<br/>Deputy Director, QUT<br/>📧 [r.schroeter@qut.edu.au](mailto:r.schroeter@qut.edu.au)<br/>🔗 [Profile](https://www.qut.edu.au/about/our-people/academic-profiles/r.schroeter) |
 
 
 ### Node Leads
