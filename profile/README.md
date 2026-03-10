@@ -58,7 +58,7 @@ Rural and remote Australia presents operating conditions — unsealed roads, ext
      Recommended size: 900 × 450 px.
      ============================================================ -->
 <p align="center">
-  <img src="assets/stock-video-grid.gif" alt="Automated vehicle field trial in a rural setting" width="60%" />
+  <img src="assets/stock-video-line.gif" alt="Automated vehicle field trial in a rural setting" width="90%" />
   <br/><sub><i>[Replace with field trial or research imagery]</i></sub>
 </p>
 
