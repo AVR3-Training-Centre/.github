@@ -4,7 +4,7 @@
      Recommended size: 1200 × 300 px, transparent or dark background.
      ============================================================ -->
 <p align="center">
-  <img src="assets/banner.png" alt="ARC Training Centre – Automated Vehicles in Rural and Remote Regions" width="100%" />
+  <img src="assets/share \point \header.png" alt="ARC Training Centre – Automated Vehicles in Rural and Remote Regions" width="100%" />
 </p>
 
 <!-- ============================================================
