@@ -297,7 +297,7 @@ Key points:
 -->
 
 <table border="0"><tr>
-<td><img src="assets/email%20signature.png" width="400" /></td>
+<td><img src="assets/email%20signature.png" width="600" /></td>
 <td>
   <table>
     <thead><tr><th>Enquiry Type</th><th>Contact</th></tr></thead>
