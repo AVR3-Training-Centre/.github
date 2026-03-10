@@ -126,11 +126,11 @@ Addressing the policy, safety assurance, workforce development, and business mod
 ### Industry Partners
 
 <p align="center">
-  <img src="assets/logos/industry-1.png" alt="[Industry Partner 1]" height="50" style="margin: 12px;" />
+  <img src="assets/partners/Ford_logo_flat.svg" alt="[Ford]" height="50" style="margin: 12px;" />
   &nbsp;&nbsp;
-  <img src="assets/logos/industry-2.png" alt="[Industry Partner 2]" height="50" style="margin: 12px;" />
+  <img src="assets/partners/SAMIP_LOGO.png" alt="[SAMIP]" height="50" style="margin: 12px;" />
   &nbsp;&nbsp;
-  <img src="assets/logos/industry-3.png" alt="[Industry Partner 3]" height="50" style="margin: 12px;" />
+  <img src="assets/partners/stealth-technologies.jpg" alt="[Stealth Technologies]" height="50" style="margin: 12px;" />
 </p>
 
 ### Government & End-User Partners
@@ -163,13 +163,13 @@ Addressing the policy, safety assurance, workforce development, and business mod
 
 | Lead | Position | Node/Institution |
 |-------|------|-------------|
-|  Dr Xiaomeng Li | Program 2 Co-Lead | [Queensland University of Technology] |
-| Prof.Thomas Braunl | Program 1 Lead |  [University of Western Australia] |
-| Prof. Stewart Worrall | Program 1 Co-Lead | [University of Sydney] |
-| A/Prof. Negin Shariati | Node Lead | [University of Technology Sydney] |
-| Prof. Saeid Nahavandi  | Program 1 Co-Lead | [Swinburne University] |
-| Prof. Douglas Creighton  | Node Lead | [Deakin University] |
-| Prof. Martin Tomitsch  | Program 2 Lead | [University of Technology Sydney] |
+|  Dr Xiaomeng Li | Program 2 Co-Lead | Queensland University of Technology |
+| Prof.Thomas Braunl | Program 1 Lead |  University of Western Australia |
+| Prof. Stewart Worrall | Program 1 Co-Lead | University of Sydney |
+| A/Prof. Negin Shariati | Node Lead | University of Technology Sydney |
+| Prof. Saeid Nahavandi  | Program 1 Co-Lead | Swinburne University of Technology |
+| Prof. Douglas Creighton  | Node Lead | Deakin University |
+| Prof. Martin Tomitsch  | Program 2 Lead | University of Technology Sydney |
 
 > 📄 Full team profiles are available on our [website](https://avr3.org.au).
 
