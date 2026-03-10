@@ -168,7 +168,7 @@ Designing resilient communication architectures and infrastructure-cooperative s
 > 📄 Full team profiles are available on our [website](#) *(replace with live URL)*.
 
 ---
-
+<!--
 ## Projects & Repositories
 
 Below is a curated index of our open-source research outputs hosted in this organisation. Each repository includes its own documentation and usage instructions.
@@ -251,7 +251,7 @@ Key points:
 - Use [GitHub Discussions](../../discussions) for general questions and ideas.
 
 ---
-
+-->
 ## Contact
 
 | Enquiry Type | Contact |
@@ -261,7 +261,7 @@ Key points:
 | Student & HDR opportunities | [training@[university].edu.au](mailto:training@university.edu.au) |
 | Data access requests | [data@[university].edu.au](mailto:data@university.edu.au) | -->
 
-🌐 **iWebsite:** [avr3.org.au](avr3.org.au)  
+🌐 **Website:** [avr3.org.au](avr3.org.au)  
 💼 **LinkedIn:** [ARC Centre – AVs in Rural & Remote Regions](https://au.linkedin.com/company/avr3)
 
 ---
@@ -278,7 +278,7 @@ Key points:
   <img src="assets/logos/arc-logo.png" alt="Australian Research Council" height="60" />
 </p>
 
-This research is supported by the **Australian Research Council** under the ARC Training Centres scheme (Project Number: **[INSERT PROJECT NUMBER]**).
+This research is supported by the **Australian Research Council** under the ARC Training Centres scheme (Project Number: **IC230100001**).
 
 We acknowledge the Traditional Custodians of the lands on which our research is conducted, and pay our respects to their Elders past and present. We recognise the deep connection of First Nations peoples to Country, including the rural and remote regions that are central to our work.
 
