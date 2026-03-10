@@ -160,13 +160,13 @@ Designing resilient communication architectures and infrastructure-cooperative s
 
 | Program | Lead | Node/Institution |
 |-------|------|-------------|
-| Program 2 – () | [Xiaomeng Li, Dr] | [Queensland University of Technology] |
-| Program 1 – () | [Thomas Braunl, Prof.] | [University of Western Australia] |
-| Program 1 – () | [Stewart Worrall, Prof.] | [University of Sydney] |
-| Program - – () | [Negin Shariati, A/Prof.] | [University of Technology Sydney] |
-| Program 1 – () | [Saeid Nahavandi, Prof.] | [Swinburne University] |
-| Program - – () | [Douglas Creighton, Prof.] | [Deakin University] |
-| Program 2 – () | [Martin Tomitsch, Prof.] | [University of Technology Sydney] |
+| Program 2 – () |  Dr Xiaomeng Li | [Queensland University of Technology] |
+| Program 1 – () |  Prof.Thomas Braunl | [University of Western Australia] |
+| Program 1 – () | Prof. Stewart Worrall | [University of Sydney] |
+| Program - – () | A/Prof. Negin Shariati | [University of Technology Sydney] |
+| Program 1 – () | Prof. Saeid Nahavandi  | [Swinburne University] |
+| Program - – () | Prof. Douglas Creighton  | [Deakin University] |
+| Program 2 – () | Prof. Martin Tomitsch  | [University of Technology Sydney] |
 
 > 📄 Full team profiles are available on our [website](https://avr3.org.au).
 
