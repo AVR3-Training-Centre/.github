@@ -126,11 +126,20 @@ Addressing the policy, safety assurance, workforce development, and business mod
 ### Industry Partners
 
 <p align="center">
-  <img src="assets/partners/Ford_logo_flat.svg" alt="[Ford]" height="50" style="margin: 12px;" />
+  <img src="assets/partners/Ford_logo_flat.svg_.png" alt="[Ford]" height="50" style="margin: 12px;" />
   &nbsp;&nbsp;
   <img src="assets/partners/SAMIP_LOGO.png" alt="[SAMIP]" height="50" style="margin: 12px;" />
   &nbsp;&nbsp;
   <img src="assets/partners/stealth-technologies.jpg" alt="[Stealth Technologies]" height="50" style="margin: 12px;" />
+  &nbsp;&nbsp;
+  <img src="assets/partners/CCAT-Horizontal.png" alt="[CCAT]" height="50" style="margin: 12px;" />
+  &nbsp;&nbsp;
+  <img src="assets/partners/IMoveCRC-Logo-300.png" alt="[IMove]" height="50" style="margin: 12px;" />
+  &nbsp;&nbsp;
+  <img src="assets/partners/Zetifi_Logo_Horizontal-250.png" alt="[Zetifi]" height="50" style="margin: 12px;" />
+  &nbsp;&nbsp;
+  <img src="assets/partners/SM_ASSET_Logo_300.png" alt="[Seeing Machines]" height="50" style="margin: 12px;" />
+  &nbsp;&nbsp;
 </p>
 
 ### Government & End-User Partners
