@@ -152,6 +152,8 @@ Designing resilient communication architectures and infrastructure-cooperative s
 |:---:|:---|
 | <img src="assets/seb-g-headshot.jpg" alt="Centre Director" width="100" /> | **Prof. Sebastien Glaser**<br/>Director, QUT<br/>📧 [sebastien.glaser@qut.edu.au](mailto:sebastien.glaser@qut.edu.au)<br/>🔗 [Profile](https://www.qut.edu.au/about/our-people/academic-profiles/sebastien.glaser) |
 | <img src="assets/ron-s-headshot.jpg" alt="Centre Deputy Director" width="100" /> | **Prof. Ronald Schroeter**<br/>Deputy Director, QUT<br/>📧 [r.schroeter@qut.edu.au](mailto:r.schroeter@qut.edu.au)<br/>🔗 [Profile](https://www.qut.edu.au/about/our-people/academic-profiles/r.schroeter) |
+| <img src="assets/andry-r-headshot.jpg" alt="Associate Director" width="100" /> | **Prof. Andry Rakotonirainy**<br/>Associate Director, QUT<br/>📧 [r.andry@qut.edu.au](mailto:r.andry@qut.edu.au)<br/>🔗 [Profile](https://research.qut.edu.au/carrsq/staff/andry-rakotonirainy/) |
+| <img src="assets/char-m-headshot.jpg" alt="Associate Director" width="100" /> | **A/Prof. Char-Lee McLennan**<br/>Associate Director, QUT<br/>📧 [charlee.mclennan@qut.edu.au](mailto:charlee.mclennan@qut.edu.au)<br/>🔗 [Profile](https://research.qut.edu.au/ace/about/our-team/char-lee-mclennan/) |
 
 
 ### Node Leads
