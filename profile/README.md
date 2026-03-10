@@ -297,7 +297,7 @@ Key points:
 -->
 
 <table border="0"><tr>
-<td><img src="assets/sharepoint%20footer.png" width="400" /></td>
+<td><img src="assets/email%20signature.png" width="400" /></td>
 <td>
   <table>
     <thead><tr><th>Enquiry Type</th><th>Contact</th></tr></thead>
@@ -307,6 +307,7 @@ Key points:
   </table>
 </td>
 </tr></table>
+
 🌐 **Website:** [avr3.org.au](https://avr3.org.au)  
 💼 **LinkedIn:** [ARC Centre – AVs in Rural & Remote Regions](https://au.linkedin.com/company/avr3)
 
