@@ -166,7 +166,7 @@ Addressing the policy, safety assurance, workforce development, and business mod
   &nbsp;&nbsp;
   <img src="assets/partners/Transport_for_NSW_logo-300.png" alt="[NSW Transport]" height="50" style="margin: 12px;" />
   &nbsp;&nbsp;
-  <img src="assets/partners/TMR_logo-1.png" alt="[QLD Government TMR]" height="50" style="margin: 12px;" />
+  <img src="assets/partners/TMR-logo-1.png" alt="[QLD Government TMR]" height="50" style="margin: 12px;" />
 </p>
 
 ---
