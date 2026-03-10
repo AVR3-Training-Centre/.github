@@ -289,7 +289,6 @@ Key points:
 ## Contact
 
 <img src="assets/AVR3_RGB_Lockup%20Primary.png" width="400" />
-
 | Enquiry Type | Contact |
 |---|---|
 | General & media enquiries | [avr3@qut.edu.au](mailto:avr3@qut.edu.au) |
