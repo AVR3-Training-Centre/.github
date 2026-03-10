@@ -47,9 +47,11 @@
 
 ## About the Centre
 
-The **ARC Training Centre for Automated Vehicles in Rural and Remote Regions** is an Australian Research Council–funded initiative bringing together leading universities, industry partners, and government agencies to tackle the unique challenges of deploying automated vehicles (AVs) outside of urban environments.
+The **ARC Training Centre for Automated Vehicles in Rural and Remote Regions** (**AVR3**) is a pioneering research hub dedicated to advancing automated vehicle (AV) technologies tailored for rural, regional, and remote Australian roads.
 
-Rural and remote Australia presents operating conditions — unsealed roads, extreme weather, sparse infrastructure, and vast distances — that are fundamentally different from those addressed by mainstream AV research. Our Centre exists to close that gap, delivering the next generation of researchers, engineers, and technologies equipped to make autonomous mobility work *everywhere*.
+By addressing the unique challenges of long distances, rough terrains, and connectivity issues, AVR3 aims to improve safety, boost productivity, and enhance transport resilience in critical industries such as agriculture, mining, and emergency services.
+
+AVR3 unites leading universities, government agencies, and industry partners to build world-class expertise and solutions that will transform transportation in Australia’s regional areas.
 
 <!-- ============================================================
      PHOTO / GRAPHIC PLACEHOLDER
