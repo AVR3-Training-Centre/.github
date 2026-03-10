@@ -134,20 +134,39 @@ Addressing the policy, safety assurance, workforce development, and business mod
   &nbsp;&nbsp;
   <img src="assets/partners/CCAT-Horizontal.png" alt="[CCAT]" height="50" style="margin: 12px;" />
   &nbsp;&nbsp;
-  <img src="assets/partners/IMoveCRC-Logo-300.png" alt="[IMove]" height="50" style="margin: 12px;" />
+  <img src="assets/partners/iMoveCRC-Logo-300.png" alt="[IMove]" height="50" style="margin: 12px;" />
   &nbsp;&nbsp;
   <img src="assets/partners/Zetifi_Logo_Horizontal-250.png" alt="[Zetifi]" height="50" style="margin: 12px;" />
   &nbsp;&nbsp;
   <img src="assets/partners/SM_ASSET_Logo_300.png" alt="[Seeing Machines]" height="50" style="margin: 12px;" />
-  &nbsp;&nbsp;
 </p>
 
 ### Government & End-User Partners
 
 <p align="center">
-  <img src="assets/logos/govt-1.png" alt="[Government Partner 1]" height="50" style="margin: 12px;" />
+  <img src="assets/partners/clipcam-logo-1.png" alt="[ClipCam]" height="50" style="margin: 12px;" />
   &nbsp;&nbsp;
-  <img src="assets/logos/govt-2.png" alt="[Government Partner 2]" height="50" style="margin: 12px;" />
+  <img src="assets/partners/thumbnail_image001.png" alt="[Melville Park]" height="50" style="margin: 12px;" />
+  &nbsp;&nbsp;
+  <img src="assets/partners/Mt-Lindesay-Blackon-White-Logo-png.png" alt="[Mt Lindesay]" height="50" style="margin: 12px;" />
+  &nbsp;&nbsp;
+  <img src="assets/partners/MTAQ-Transparent-Logo-300.png" alt="[MTA Queensland]" height="50" style="margin: 12px;" />
+  &nbsp;&nbsp;
+  <img src="assets/partners/RACQ-Logo-300.png" alt="[RACQ]" height="50" style="margin: 12px;" />
+  &nbsp;&nbsp;
+  <img src="assets/partners/NTC-logo-PRIMARY-250.png" alt="[National Transport Commission]" height="50" style="margin: 12px;" />
+  &nbsp;&nbsp;
+  <img src="assets/partners/DETSI-logo-1.png" alt="[QLD Government DETSI]" height="50" style="margin: 12px;" />
+  &nbsp;&nbsp;
+  <img src="assets/partners/logo-murweh_council.png" alt="[Shire of Murweh]" height="50" style="margin: 12px;" />
+  &nbsp;&nbsp;
+  <img src="assets/partners/nrmmrrd-logo.png" alt="[QLD Government NRMMRRD]" height="50" style="margin: 12px;" />
+  &nbsp;&nbsp;
+  <img src="assets/partners/pngkey.com-logo-wa-png-6993962.png" alt="[Government of Western Australia Dep. Transport]" height="50" style="margin: 12px;" />
+  &nbsp;&nbsp;
+  <img src="assets/partners/Transport_for_NSW_logo-300.png" alt="[NSW Transport]" height="50" style="margin: 12px;" />
+  &nbsp;&nbsp;
+  <img src="assets/partners/TMR_logo-1.png" alt="[QLD Government TMR]" height="50" style="margin: 12px;" />
 </p>
 
 ---
