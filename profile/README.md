@@ -297,7 +297,7 @@ Key points:
 -->
 
 <table border="0"><tr>
-<td><img src="assets/AVR3_RGB_Lockup%20Primary.png" width="300" /></td>
+<td><img src="assets/sharepoint%20footer.png" width="400" /></td>
 <td>
   <table>
     <thead><tr><th>Enquiry Type</th><th>Contact</th></tr></thead>
