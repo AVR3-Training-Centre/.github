@@ -113,11 +113,17 @@ Designing resilient communication architectures and infrastructure-cooperative s
 ### University Partners
 
 <p align="center">
-  <img src="assets/logos/university-1.png" alt="[University 1 Name]" height="50" style="margin: 12px;" />
+  <img src="assets/partners/QUT_Logo_3DECK_CMYK-1-2.png" alt="[Queensland University of Technology]" height="50" style="margin: 12px;" />
   &nbsp;&nbsp;
-  <img src="assets/logos/university-2.png" alt="[University 2 Name]" height="50" style="margin: 12px;" />
+  <img src="assets/partners/university-of-sydney-250.png" alt="[The University of Sydney]" height="50" style="margin: 12px;" />
   &nbsp;&nbsp;
-  <img src="assets/logos/university-3.png" alt="[University 3 Name]" height="50" style="margin: 12px;" />
+  <img src="assets/partners/the-university-of-western-australia-250.png" alt="[The University of Western Australia]" height="50" style="margin: 12px;" />
+  <img src="assets/partners/TSRC_PRPL-no-background" alt="[Loughborough University]" height="50" style="margin: 12px;" />
+  &nbsp;&nbsp;
+  <img src="assets/partners/university-otechnology-sydney-250.png" alt="University of Technology Sydney]" height="50" style="margin: 12px;" />
+  &nbsp;&nbsp;
+  <img src="assets/partners/Deakin-university-black-250.png" alt="[Deakin University]" height="50" style="margin: 12px;" />
+  <img src="assets/partners/Logo_of_Swinburne_University_of_Technology-250" alt="[Swinburne University of Technology]" height="50" style="margin: 12px;" />
 </p>
 
 ### Industry Partners
