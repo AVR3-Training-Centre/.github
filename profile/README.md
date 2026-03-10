@@ -149,7 +149,12 @@ Designing resilient communication architectures and infrastructure-cooperative s
 
 | | |
 |:---:|:---|
-| <img src="assets/team/director.png" alt="Centre Director" width="100" /> | **Sebastien Glaser**<br/>Professor, QUT<br/>📧 [sebastien.glaser@qut.edu.au](mailto:sebastien.glaser@qut.edu.au)<br/>🔗 [Profile](https://[university].edu.au) |
+| <img src="assets/team/director.png" alt="Centre Director" width="100" /> | **Sebastien Glaser**<br/>Professor, QUT<br/>📧 [sebastien.glaser@qut.edu.au](mailto:sebastien.glaser@qut.edu.au)<br/>🔗 [Profile](https://www.qut.edu.au/about/our-people/academic-profiles/sebastien.glaser) |
+
+| | |
+|:---:|:---|
+| <img src="assets/team/director.png" alt="Centre Deputy Director" width="100" /> | **Ronald Schroeter**<br/>Professor, QUT<br/>📧 [r.schroeter@qut.edu.au](mailto:r.schroeter@qut.edu.au)<br/>🔗 [Profile](https://www.qut.edu.au/about/our-people/academic-profiles/r.schroeter) |
+
 
 ### Deputy Directors & Theme Leaders
 
