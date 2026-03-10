@@ -256,14 +256,13 @@ Key points:
 
 | Enquiry Type | Contact |
 |---|---|
-| General & media enquiries | [centre@[university].edu.au](mailto:centre@university.edu.au) |
-| Research collaboration | [research@[university].edu.au](mailto:research@university.edu.au) |
+| General & media enquiries | [avr3@qut.edu.au](mailto:avr3@qut.edu.au) |
+<!-- | Research collaboration | [research@[university].edu.au](mailto:research@university.edu.au) |
 | Student & HDR opportunities | [training@[university].edu.au](mailto:training@university.edu.au) |
-| Data access requests | [data@[university].edu.au](mailto:data@university.edu.au) |
+| Data access requests | [data@[university].edu.au](mailto:data@university.edu.au) | -->
 
-🌐 **Website:** [https://[centre-website].edu.au](#) *(replace with live URL)*  
-🐦 **Twitter/X:** [@[handle]](#)  
-💼 **LinkedIn:** [ARC Centre – AVs in Rural & Remote Regions](#)
+🌐 **iWebsite:** [avr3.org.au](avr3.org.au)  
+💼 **LinkedIn:** [ARC Centre – AVs in Rural & Remote Regions](https://au.linkedin.com/company/avr3)
 
 ---
 
@@ -286,5 +285,5 @@ We acknowledge the Traditional Custodians of the lands on which our research is 
 ---
 
 <p align="center">
-  <sub>© [Year]–present ARC Training Centre for Automated Vehicles in Rural and Remote Regions. Content is provided under the terms of the <a href="LICENSE">MIT Licence</a> unless otherwise stated.</sub>
+  <sub>© 2025-present ARC Training Centre for Automated Vehicles in Rural and Remote Regions. Content is provided under the terms of the <a href="LICENSE">MIT Licence</a> unless otherwise stated.</sub>
 </p>
