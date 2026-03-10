@@ -148,15 +148,10 @@ Designing resilient communication architectures and infrastructure-cooperative s
      TEAM PHOTO PLACEHOLDER
      A professional headshot or team group photo works well here.
      ============================================================ -->
-<div>
 | | |
 |:---:|:---|
 | <img src="assets/seb-g-headshot.jpg" alt="Centre Director" width="100" /> | **Sebastien Glaser**<br/>Professor, QUT<br/>📧 [sebastien.glaser@qut.edu.au](mailto:sebastien.glaser@qut.edu.au)<br/>🔗 [Profile](https://www.qut.edu.au/about/our-people/academic-profiles/sebastien.glaser) |
-
-| | |
-|:---:|:---|
 | <img src="assets/ron-s-headshot.jpg" alt="Centre Deputy Director" width="100" /> | **Ronald Schroeter**<br/>Professor, QUT<br/>📧 [r.schroeter@qut.edu.au](mailto:r.schroeter@qut.edu.au)<br/>🔗 [Profile](https://www.qut.edu.au/about/our-people/academic-profiles/r.schroeter) |
-<div/>
 
 
 ### Node Leads
