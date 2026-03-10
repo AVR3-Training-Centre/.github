@@ -70,34 +70,30 @@ AVR3 unites leading universities, government agencies, and industry partners to 
 | | |
 |---|---|
 | **Vision** | To lead the transformation of rural and remote transportation by deploying safe, sustainable, and socially accepted automated vehicle technologies. This vision aims to foster innovation, enhance capability, and build resilience in key Australian industries. |
-| **Mission** | To develop foundational knowledge, practical technologies, and skilled researchers that enable the safe and reliable deployment of AVs in challenging non-urban environments. |
+| **Mission** | To revolutionise transport and connectivity in rural and remote areas through innovative research, stakeholder collaboration, and the development of tailored automated vehicle solutions that enhance safety, community well-being, and economic opportunities. |
 
 ---
 
-## Research Themes
+## Research Programs
 
-Our research is organised across four interconnected themes:
+Our research is organised across three interconnected programs:
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│  Theme 1 │ Perception & Sensing in Harsh Environments        │
-│  Theme 2 │ Navigation, Mapping & Localisation                │
-│  Theme 3 │ Human Factors, Safety & Regulatory Frameworks     │
-│  Theme 4 │ Connectivity, Infrastructure & Systems Integration│
+│  Program 1 │ Technology and Platforms                        │
+│  Program 2 │ Human Interaction and Safety                    │
+│  Program 3 │ Regulatory and Business Frameworks              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
-### Theme 1 — Perception & Sensing in Harsh Environments
-Developing robust sensor fusion and computer vision systems capable of operating reliably in dust, rain, mud, glare, and on unmarked or degraded roads.
+### Program 1 — Technology and Platforms
+Focusing on the engineering and technical aspects of automated vehicles, this program addresses key challenges such as localisation, navigation, sensing, communication, and digital twin technology.
 
-### Theme 2 — Navigation, Mapping & Localisation
-Creating high-definition mapping methodologies and localisation algorithms suited to environments with sparse landmarks, limited GNSS reliability, and dynamic terrain.
+### Program 2 — Human Interaction and Safety
+Exploring the human factors and societal interactions of AVs, this program investigates driver/operator engagement, interactions with other road users, community acceptance, and infrastructure adaptation.
 
-### Theme 3 — Human Factors, Safety & Regulatory Frameworks
-Understanding how communities, operators, and regulators interact with AVs in regional settings, and developing evidence-based safety standards and policy guidance.
-
-### Theme 4 — Connectivity, Infrastructure & Systems Integration
-Designing resilient communication architectures and infrastructure-cooperative systems for areas with intermittent or low-bandwidth connectivity.
+### Program 3 —  Regulatory and Business Frameworks
+Addressing the policy, safety assurance, workforce development, and business models essential for the successful deployment of AVs, this program focuses on developing a robust regulatory framework and building a compelling economic case.
 
 ---
 
@@ -167,13 +163,13 @@ Designing resilient communication architectures and infrastructure-cooperative s
 
 | Program | Lead | Node/Institution |
 |-------|------|-------------|
-| Program 2 – () |  Dr Xiaomeng Li | [Queensland University of Technology] |
-| Program 1 – () |  Prof.Thomas Braunl | [University of Western Australia] |
-| Program 1 – () | Prof. Stewart Worrall | [University of Sydney] |
-| Program - – () | A/Prof. Negin Shariati | [University of Technology Sydney] |
-| Program 1 – () | Prof. Saeid Nahavandi  | [Swinburne University] |
-| Program - – () | Prof. Douglas Creighton  | [Deakin University] |
-| Program 2 – () | Prof. Martin Tomitsch  | [University of Technology Sydney] |
+| Program 2 – Human Interaction and Safety |  Dr Xiaomeng Li | [Queensland University of Technology] |
+| Program 1 – Technology and Platforms |  Prof.Thomas Braunl | [University of Western Australia] |
+| Program 1 – Technology and Platforms | Prof. Stewart Worrall | [University of Sydney] |
+| | A/Prof. Negin Shariati | [University of Technology Sydney] |
+| Program 1 – Technology and Platforms | Prof. Saeid Nahavandi  | [Swinburne University] |
+| | Prof. Douglas Creighton  | [Deakin University] |
+| Program 2 – Human Interaction and Safety | Prof. Martin Tomitsch  | [University of Technology Sydney] |
 
 > 📄 Full team profiles are available on our [website](https://avr3.org.au).
 
