@@ -33,11 +33,13 @@
 - [Research Themes](#research-themes)
 - [Partner Organisations](#partner-organisations)
 - [Our Team](#our-team)
+<!--
 - [Projects & Repositories](#projects--repositories)
 - [Publications](#publications)
 - [Data & Datasets](#data--datasets)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
+-->
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
