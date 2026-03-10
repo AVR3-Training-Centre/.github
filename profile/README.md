@@ -80,7 +80,7 @@ Our research is organised across four interconnected themes:
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │  Theme 1 │ Perception & Sensing in Harsh Environments        │
-│  Theme 2 │ Navigation, Mapping & Localisation               │
+│  Theme 2 │ Navigation, Mapping & Localisation                │
 │  Theme 3 │ Human Factors, Safety & Regulatory Frameworks     │
 │  Theme 4 │ Connectivity, Infrastructure & Systems Integration│
 └──────────────────────────────────────────────────────────────┘
@@ -167,7 +167,7 @@ Designing resilient communication architectures and infrastructure-cooperative s
 | Theme 3 – Human Factors & Safety | [Name, Title] | [University] |
 | Theme 4 – Connectivity & Systems | [Name, Title] | [University] |
 
-> 📄 Full team profiles are available on our [website](#) *(replace with live URL)*.
+> 📄 Full team profiles are available on our [website](avr3.org.au).
 
 ---
 <!--
