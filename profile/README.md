@@ -296,8 +296,8 @@ Key points:
 | Data access requests | [data@[university].edu.au](mailto:data@university.edu.au) |
 -->
 
-<table><tr>
-<td><img src="assets/AVR3_RGB_Lockup%20Primary.png" width="200" /></td>
+<table border="0"><tr>
+<td><img src="assets/AVR3_RGB_Lockup%20Primary.png" width="300" /></td>
 <td>
   <table>
     <thead><tr><th>Enquiry Type</th><th>Contact</th></tr></thead>
