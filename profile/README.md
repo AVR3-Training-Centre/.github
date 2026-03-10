@@ -58,7 +58,7 @@ Rural and remote Australia presents operating conditions — unsealed roads, ext
      Recommended size: 900 × 450 px.
      ============================================================ -->
 <p align="center">
-  <img src="assets/field-photo.png" alt="Automated vehicle field trial in a rural setting" width="80%" />
+  <img src="assets/stock-video-grid.gif" alt="Automated vehicle field trial in a rural setting" width="80%" />
   <br/><sub><i>[Replace with field trial or research imagery]</i></sub>
 </p>
 
@@ -118,12 +118,12 @@ Designing resilient communication architectures and infrastructure-cooperative s
   <img src="assets/partners/university-of-sydney-250.png" alt="[The University of Sydney]" height="50" style="margin: 12px;" />
   &nbsp;&nbsp;
   <img src="assets/partners/the-university-of-western-australia-250.png" alt="[The University of Western Australia]" height="50" style="margin: 12px;" />
-  <img src="assets/partners/TSRC_PRPL-no-background" alt="[Loughborough University]" height="50" style="margin: 12px;" />
+  <img src="assets/partners/TSRC_PRPL-no-background.png" alt="[Loughborough University]" height="50" style="margin: 12px;" />
   &nbsp;&nbsp;
-  <img src="assets/partners/university-otechnology-sydney-250.png" alt="University of Technology Sydney]" height="50" style="margin: 12px;" />
+  <img src="assets/partners/university-of-technology-sydney-250.png" alt="University of Technology Sydney]" height="50" style="margin: 12px;" />
   &nbsp;&nbsp;
   <img src="assets/partners/Deakin-university-black-250.png" alt="[Deakin University]" height="50" style="margin: 12px;" />
-  <img src="assets/partners/Logo_of_Swinburne_University_of_Technology-250" alt="[Swinburne University of Technology]" height="50" style="margin: 12px;" />
+  <img src="assets/partners/Logo_of_Swinburne_University_of_Technology-250.jpg" alt="[Swinburne University of Technology]" height="50" style="margin: 12px;" />
 </p>
 
 ### Industry Partners
