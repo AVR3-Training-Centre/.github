@@ -161,15 +161,15 @@ Addressing the policy, safety assurance, workforce development, and business mod
 
 ### Node Leads
 
-| Program | Lead | Node/Institution |
+| Lead | Position | Node/Institution |
 |-------|------|-------------|
-| Program 2 – Human Interaction and Safety |  Dr Xiaomeng Li | [Queensland University of Technology] |
-| Program 1 – Technology and Platforms |  Prof.Thomas Braunl | [University of Western Australia] |
-| Program 1 – Technology and Platforms | Prof. Stewart Worrall | [University of Sydney] |
-| | A/Prof. Negin Shariati | [University of Technology Sydney] |
-| Program 1 – Technology and Platforms | Prof. Saeid Nahavandi  | [Swinburne University] |
-| | Prof. Douglas Creighton  | [Deakin University] |
-| Program 2 – Human Interaction and Safety | Prof. Martin Tomitsch  | [University of Technology Sydney] |
+|  Dr Xiaomeng Li | Program 2 Co-Lead | [Queensland University of Technology] |
+| Prof.Thomas Braunl | Program 1 Lead |  [University of Western Australia] |
+| Prof. Stewart Worrall | Program 1 Co-Lead | [University of Sydney] |
+| A/Prof. Negin Shariati | Node Lead | [University of Technology Sydney] |
+| Prof. Saeid Nahavandi  | Program 1 Co-Lead | [Swinburne University] |
+| Prof. Douglas Creighton  | Node Lead | [Deakin University] |
+| Prof. Martin Tomitsch  | Program 2 Lead | [University of Technology Sydney] |
 
 > 📄 Full team profiles are available on our [website](https://avr3.org.au).
 
