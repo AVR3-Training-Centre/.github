@@ -33,6 +33,8 @@
 - [Research Themes](#research-themes)
 - [Partner Organisations](#partner-organisations)
 - [Our Team](#our-team)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 <!--
 - [Projects & Repositories](#projects--repositories)
 - [Publications](#publications)
@@ -40,8 +42,6 @@
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 -->
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 ---
 
