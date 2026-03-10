@@ -68,7 +68,7 @@ Rural and remote Australia presents operating conditions — unsealed roads, ext
 
 | | |
 |---|---|
-| **Vision** | A future where automated vehicles enhance safety, productivity, and quality of life in rural and remote communities across Australia and the world. |
+| **Vision** | To lead the transformation of rural and remote transportation by deploying safe, sustainable, and socially accepted automated vehicle technologies. This vision aims to foster innovation, enhance capability, and build resilience in key Australian industries. |
 | **Mission** | To develop foundational knowledge, practical technologies, and skilled researchers that enable the safe and reliable deployment of AVs in challenging non-urban environments. |
 
 ---
