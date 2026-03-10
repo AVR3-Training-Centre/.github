@@ -287,14 +287,25 @@ Key points:
 ---
 -->
 ## Contact
-
+<!--
 | Enquiry Type | Contact |
 |---|---|
 | General & media enquiries | [avr3@qut.edu.au](mailto:avr3@qut.edu.au) |
 <!-- | Research collaboration | [research@[university].edu.au](mailto:research@university.edu.au) |
 | Student & HDR opportunities | [training@[university].edu.au](mailto:training@university.edu.au) |
 | Data access requests | [data@[university].edu.au](mailto:data@university.edu.au) | -->
-
+-->
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+<img src="assets/AVR3_RGB_Lockup%20Primary.png" width="200" />
+<table>
+  <thead>
+    <tr><th>Enquiry Type</th><th>Contact</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>General & media enquiries</td><td><a href="mailto:avr3@qut.edu.au">avr3@qut.edu.au</a></td></tr>
+  </tbody>
+</table>
+</div>
 🌐 **Website:** [avr3.org.au](https://avr3.org.au)  
 💼 **LinkedIn:** [ARC Centre – AVs in Rural & Remote Regions](https://au.linkedin.com/company/avr3)
 
