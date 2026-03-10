@@ -167,7 +167,7 @@ Designing resilient communication architectures and infrastructure-cooperative s
 | Theme 3 – Human Factors & Safety | [Name, Title] | [University] |
 | Theme 4 – Connectivity & Systems | [Name, Title] | [University] |
 
-> 📄 Full team profiles are available on our [website](avr3.org.au).
+> 📄 Full team profiles are available on our [website](https://avr3.org.au).
 
 ---
 <!--
@@ -263,7 +263,7 @@ Key points:
 | Student & HDR opportunities | [training@[university].edu.au](mailto:training@university.edu.au) |
 | Data access requests | [data@[university].edu.au](mailto:data@university.edu.au) | -->
 
-🌐 **Website:** [avr3.org.au](avr3.org.au)  
+🌐 **Website:** [avr3.org.au](https://avr3.org.au)  
 💼 **LinkedIn:** [ARC Centre – AVs in Rural & Remote Regions](https://au.linkedin.com/company/avr3)
 
 ---
