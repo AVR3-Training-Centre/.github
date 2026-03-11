@@ -148,7 +148,7 @@ Addressing the policy, safety assurance, workforce development, and business mod
   &nbsp;&nbsp;
   <img src="assets/partners/thumbnail_image001.png" alt="[Melville Park]" height="50" style="margin: 12px;" />
   &nbsp;&nbsp;
-  <img src="assets/partners/Mt-Lindesay-Blackon-White-Logo-png.png" alt="[Mt Lindesay]" height="50" style="margin: 12px;" />
+  <img src="assets/partners/Mt-Lindesay-Black-on-White-Logo-png.png" alt="[Mt Lindesay]" height="50" style="margin: 12px;" />
   &nbsp;&nbsp;
   <img src="assets/partners/MTAQ-Transparent-Logo-300.png" alt="[MTA Queensland]" height="50" style="margin: 12px;" />
   &nbsp;&nbsp;
